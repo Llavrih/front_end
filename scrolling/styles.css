@@ -59,6 +59,10 @@ body{
   transform: translateX(50%) rotate(45deg);
   border-radius: 2px;
 }
+.iframe{
+  margin-right: 20px;
+}
+
 @keyframes fillBars{
   from{
     width: 0;
